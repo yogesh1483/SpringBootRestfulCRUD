@@ -7,6 +7,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
+//This is practice project that I am working with
 @Entity
 @Table(name = "student")
 public class Student {
